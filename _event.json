@@ -1,0 +1,10 @@
+    {
+        "sourceId" : "{sourceId}",
+        "eventType" : "{eventType}",
+        "time" : "{time}",
+        "severity": "{severity}",
+        "seqnumber": {
+            "deviceLastSeqnumber": "{deviceLastSeqnumber}"
+        },
+        "data": "{data}"
+    }
